@@ -1,0 +1,23 @@
+{
+  "homepage": "https://mdhanushraju.github.io/Bubble-game",
+  "name": "bubblegame",
+  "version": "1.0.0",
+  "main": "bubble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDhanushraju/Bubble-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDhanushraju/Bubble-game/issues"
+  },
+  "homepage": "https://github.com/MDhanushraju/Bubble-game#readme",
+  "description": ""
+}
